@@ -1,3 +1,7 @@
+# NAME OF AUTHOR:  Jake Pommainville
+# NAME OF THE PROGRAM:  Average
+# DATE OF CREATION:  25/1/2022
+# PURPOSE OF PROGRAM:  Calculates average but it's different...
 
 # variables
 sumnum = 0

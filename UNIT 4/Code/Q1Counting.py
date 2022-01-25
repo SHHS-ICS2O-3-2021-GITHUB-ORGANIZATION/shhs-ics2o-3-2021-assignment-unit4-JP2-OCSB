@@ -1,3 +1,7 @@
+# NAME OF AUTHOR:  Jake Pommainville
+# NAME OF THE PROGRAM:  Counting
+# DATE OF CREATION:  25/1/2022
+# PURPOSE OF PROGRAM:  Counts
 
 # variables
 number = 0

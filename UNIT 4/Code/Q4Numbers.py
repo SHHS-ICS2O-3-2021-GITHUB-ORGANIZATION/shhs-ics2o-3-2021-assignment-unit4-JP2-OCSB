@@ -1,3 +1,7 @@
+# NAME OF AUTHOR:  Jake Pommainville
+# NAME OF THE PROGRAM:  Numbers
+# DATE OF CREATION:  25/1/2022
+# PURPOSE OF PROGRAM:  Calculates average of numbers
 
 # variables
 sumnum = 0
