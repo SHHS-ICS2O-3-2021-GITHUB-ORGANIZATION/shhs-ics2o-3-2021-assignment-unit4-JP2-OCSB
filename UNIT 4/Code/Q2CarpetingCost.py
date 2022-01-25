@@ -1,6 +1,6 @@
 # NAME OF AUTHOR:  Jake Pommainville
-# NAME OF THE PROGRAM:  Hello World
-# DATE OF CREATION:  1/6/2022
+# NAME OF THE PROGRAM:  Carpenting Cost
+# DATE OF CREATION:  24/1/2022
 # PURPOSE OF PROGRAM:  Print hello world in the console
 
 # processing

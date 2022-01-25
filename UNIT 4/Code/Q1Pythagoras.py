@@ -1,7 +1,7 @@
 # NAME OF AUTHOR:  Jake Pommainville
-# NAME OF THE PROGRAM:  Hello World
-# DATE OF CREATION:  1/6/2022
-# PURPOSE OF PROGRAM:  Calculate Pythagoras theorum
+# NAME OF THE PROGRAM:  Pythagoras
+# DATE OF CREATION:  24/1/2022
+# PURPOSE OF PROGRAM:  Calculate Pythagoras theorem
 import math
 
 
