@@ -3,6 +3,7 @@
 # DATE OF CREATION:  25/1/2022
 # PURPOSE OF PROGRAM:  Calculates cost with taxes
 
+# variables
 taxRate = 13
 subtotal = 0.0
 
@@ -17,6 +18,7 @@ while True:
     else:
         print('Type stop when you are done adding items')
         while True:
+            # inputs
             print('Price of item:')
             user_input = input()
             if user_input.upper() == 'STOP':
@@ -30,5 +32,8 @@ while True:
                     subtotal = subtotal + val1
                 except ValueError:
                     print('not a number')
+        # processing
         tax = subtotal*(taxRate/100)
+
+        # outputs
         print(f'Total cost: ${tax+subtotal}\nTax: ${tax}\nSubtotal: ${subtotal}')
