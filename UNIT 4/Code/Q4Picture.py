@@ -1,3 +1,7 @@
+# NAME OF AUTHOR:  Jake Pommainville
+# NAME OF THE PROGRAM:  Hello World
+# DATE OF CREATION:  1/6/2022
+# PURPOSE OF PROGRAM:  Draws shapes in a pygame window
 import pygame, sys
 from pygame import Color, draw, display, time
 
@@ -23,17 +27,21 @@ directiony = 0
 directionx1 = 1
 directiony1 = 0
 
+# def the colors of the images drawn on the screen
+backgroundcolor = 'black'
+circlecolor = 'purple'
+rectanglecolor = 'red'
 
 while True:
     # makes Closing work smoothly, and x button function
     for event in pygame.event.get():
         if event.type == pygame.QUIT: sys.exit()
     # sets background color
-    gameDisplay.fill(Color('black'))
+    gameDisplay.fill(Color(backgroundcolor))
 
     # draws the 2 different shapes
-    draw.circle(gameDisplay, Color('purple'), (x, y), radius)
-    draw.rect(gameDisplay, Color('red'), (x1, y1, 30, 30))
+    draw.circle(gameDisplay, Color(circlecolor), (x, y), radius)
+    draw.rect(gameDisplay, Color(rectanglecolor), (x1, y1, 30, 30))
 
     # makes it show up
     display.flip()

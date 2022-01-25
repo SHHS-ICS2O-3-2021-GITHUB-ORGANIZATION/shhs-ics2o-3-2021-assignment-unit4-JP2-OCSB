@@ -1,3 +1,7 @@
+# NAME OF AUTHOR:  Jake Pommainville
+# NAME OF THE PROGRAM:  Hello World
+# DATE OF CREATION:  1/6/2022
+# PURPOSE OF PROGRAM:  Print hello world in the console
 
 # processing
 def Cost_Calculator(cost, area1):
