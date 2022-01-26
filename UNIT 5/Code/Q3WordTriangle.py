@@ -4,10 +4,13 @@
 # PURPOSE OF PROGRAM:  makes a word triangle
 
 while True:
+    # inputs
     print('type your word')
     userInput = input()
+    # processing
     for i in range(1, len(userInput)):
         thing = userInput.split(userInput[i])
+        # outputs
         print(thing[0])
         if i == len(userInput)-1:
             print(userInput)
