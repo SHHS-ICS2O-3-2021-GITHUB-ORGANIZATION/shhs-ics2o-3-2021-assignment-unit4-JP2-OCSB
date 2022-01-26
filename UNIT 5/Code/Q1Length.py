@@ -1,6 +1,6 @@
 # NAME OF AUTHOR:  Jake Pommainville
 # NAME OF THE PROGRAM:  Length
-# DATE OF CREATION:  24/1/2022
+# DATE OF CREATION:  26/1/2022
 # PURPOSE OF PROGRAM:  Displays length of a string
 
 

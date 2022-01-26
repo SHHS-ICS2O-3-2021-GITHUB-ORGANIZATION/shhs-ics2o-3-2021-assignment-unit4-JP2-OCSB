@@ -1,3 +1,7 @@
+# NAME OF AUTHOR:  Jake Pommainville
+# NAME OF THE PROGRAM:  reverse
+# DATE OF CREATION:  26/1/2022
+# PURPOSE OF PROGRAM: Reverses a string
 
 while True:
     print('do you want to quit')

@@ -1,3 +1,7 @@
+# NAME OF AUTHOR:  Jake Pommainville
+# NAME OF THE PROGRAM:  Word Triangle
+# DATE OF CREATION:  26/1/2022
+# PURPOSE OF PROGRAM:  makes a word triangle
 
 while True:
     print('type your word')
