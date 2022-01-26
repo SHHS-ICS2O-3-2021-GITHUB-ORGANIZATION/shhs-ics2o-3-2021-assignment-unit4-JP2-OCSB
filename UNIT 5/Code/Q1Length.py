@@ -1,0 +1,3 @@
+
+while True:
+    userInput = input()
