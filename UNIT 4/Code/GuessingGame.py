@@ -1,3 +1,7 @@
+# NAME OF AUTHOR:  Jake Pommainville
+# NAME OF THE PROGRAM:  Guessing Game
+# DATE OF CREATION:  26/1/2022
+# PURPOSE OF PROGRAM:  A guessing game in python
 import random
 
 # variables
